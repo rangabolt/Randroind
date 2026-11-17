@@ -1,0 +1,6 @@
+{
+  "name": "tapatepa",
+  "description": "Screen overlay automation tool with an adjustable change-detection square and customizable tap trigger button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

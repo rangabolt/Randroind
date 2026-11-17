@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tapatepa</string>
+    <string name="accessibility_service_label">tapatepa Gesture Trigger</string>
+    <string name="accessibility_service_description">Allows tapatepa to dispatch automated screen taps at your chosen trigger target coordinates when visual changes meet your threshold.</string>
+    <string name="notification_channel_name">tapatepa Monitor</string>
+    <string name="notification_channel_description">Keeps the screen watch square and tap trigger overlay active.</string>
+    <string name="notification_title_setup">tapatepa Overlay Ready</string>
+    <string name="notification_title_watching">tapatepa Watching Screen</string>
+    <string name="notification_text_setup">Adjust your watch square and trigger target, then tap Arm.</string>
+    <string name="notification_text_watching">Monitoring watch square for visual changes.</string>
+    <string name="action_stop_overlay">Stop Overlay</string>
+    <string name="action_toggle_watch">Pause / Resume</string>
+</resources>
